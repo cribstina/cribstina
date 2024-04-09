@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Cristina and I'm a Comp Sci undergraduate at the Federal University of Rio de Janeiro, specialising in software engineering.  😉
 <!--
 **cribstina/cribstina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
